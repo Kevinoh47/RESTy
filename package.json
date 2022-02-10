@@ -13,7 +13,7 @@
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
     "next": "^7.0.2",
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-json-view": "^1.19.1",
